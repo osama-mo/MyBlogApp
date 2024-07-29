@@ -27,7 +27,7 @@ The application follows the Clean Architecture pattern, organized as follows:
 - **Core**: Includes the essential utilities and common code used across all features.
 
 - 
-![til](./tree/main/client/blog_app/app.png)
+![til](./client/blog_app/app.gif)
 
 ## Django Backend
 - **PostgreSQL Database**: Utilized for persistent data storage.
