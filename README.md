@@ -26,7 +26,7 @@ The application follows the Clean Architecture pattern, organized as follows:
 - **Features**: Contains three layers for each feature: Data , Domain , Presentation .
 - **Core**: Includes the essential utilities and common code used across all features.
 
-
+![](https://github.com/osama-mo/MyBlogApp/tree/main/client/blog_app/app.gif)
 
 ## Django Backend
 - **PostgreSQL Database**: Utilized for persistent data storage.
